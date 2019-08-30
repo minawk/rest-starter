@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "joi": "^14.3.1",
+    "mongoose": "^5.6.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "name": "resttest",
+  "version": "1.0.0",
+  "description": "Rest api express starter",
+  "main": "server.js",
+  "author": "minawk",
+  "license": "MIT"
+}
